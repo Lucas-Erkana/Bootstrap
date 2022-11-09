@@ -1,7 +1,7 @@
 
-<Name of Project>
+Bootstrap
 
-<Project Desction here>
+Building a new website from scratch with a CSS framework is super fast. This makes them a good fit for several business use cases. The main one is creating MVPs (Minimum Viable Products) that need to be developed quickly to test some business hypothesis. Also, a CSS framework could be used to build more long-term projects since the pre-built components that the framework offers can be personalized.
 
 ## Built With
 - HTML and CSS
